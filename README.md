@@ -140,7 +140,7 @@ const questions = [
 {
  category:"Nun Mati dan Tanwin",
  ayat:"مِنْ بَعْدِ",
- question:"Apa hukum nun mati bertemu huruf ب?",
+ question:"Apa hukum dibacaan tersebut?",
  options:["Iqlab","Ikhfa Haqiqi","Izhar Halqi","Idgham Bighunnah"],
  answer:0,
  explanation:"Nun mati bertemu ب dibaca Iqlab, dengan mengubah bunyi nun menjadi mim samar disertai ghunnah."
@@ -156,7 +156,7 @@ const questions = [
 {
  category:"Mim Mati",
  ayat:"تَرْمِيهِمْ بِحِجَارَةٍ",
- question:"Apa hukum mim mati bertemu huruf ب?",
+ question:"Apa hukum dibacaan tersebut?",
  options:["Idgham Mimi","Izhar Syafawi","Ikhfa Syafawi","Iqlab"],
  answer:2,
  explanation:"Mim mati bertemu ب merupakan Ikhfa Syafawi."
