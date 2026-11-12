@@ -318,7 +318,7 @@ function showResult() {
     `Benar: ${score} | Salah: ${questions.length - score} | Nilai: ${percentage}`;
 
   let grade = "";
-  if (score >= 18) grade = "Luar biasa! Penguasaan tajwid lu mantap.";
+  if (score >= 18) grade = "Luar biasa! Penguasaan tajwid antum mantap.";
   else if (score >= 15) grade = "Bagus! Tinggal sedikit lagi.";
   else if (score >= 10) grade = "Lumayan! Terus latihan.";
   else grade = "Yuk, pelajari lagi materi tajwidnya.";
